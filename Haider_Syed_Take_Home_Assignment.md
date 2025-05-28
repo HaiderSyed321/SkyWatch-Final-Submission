@@ -1,9 +1,9 @@
 # Skywatch Analytics Engineer Take-Home Assessment
 ## Final Submission Summary
 
-**Candidate**: Haider Syed
-**Position**: Analytics Engineer - SkyWatch
-**Date**: 27th May 2025
+**Name**: Haider Syed
+**Position**: Analytics Engineer 1 - SkyWatch
+**Date**: 28th May 2025
 
 ---
 
@@ -76,7 +76,7 @@ Our goal is to give business leaders instant answers to net-new, cohort retentio
 
 ### The Core Problem
 
-When answering questions like "How many users churned last quarter and returned this quarter?", we usually must perform nested CTEs. Analysts usually repeat that work, and business users can't self-serve those queries due to SQL complexity.
+When answering questions like "How many users churned last quarter and returned this quarter?", we usually must perform nested CTEs. Analysts or engineers usually repeat that work, and business users can't self-serve those queries due to SQL complexity.
 
 ### My Proposed Solution
 
